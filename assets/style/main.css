@@ -1,0 +1,41 @@
+.jumbotron {
+    background-image: url(../image/vine.jpg);
+    background-size: cover;
+    height: 500px;
+}
+
+.jumbotron .container {
+    position: relative;
+    top: 350px;
+    left: 210px;
+    width: 400px;
+}
+
+.jumbotron h1 {
+    color: #6c5887;
+    font-size: 34px;
+    font-weight: bold;
+}
+
+.jumbotron p {
+    color: black;
+}
+
+.jumbotron a {
+    color: white;
+}
+
+#aboutMe h2 {
+    font-weight: bold;
+    color: #420694;
+}
+
+#aboutMe p {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+h3 {
+    font-weight: bold;
+    color: #ff5a00;
+}
